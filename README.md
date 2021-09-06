@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sae</h1>
-<h3 align="center">A bilingual full-stack web developer and graphic designer in Tokyo🗼</h3>
+<h1>👋 Hi, I'm Sae</h1>
+<h3>I'm a bilingual full-stack web developer and graphic designer in Tokyo🗼</h3>
+
+- 👩‍💻 Currently learning React in Rails
 
 - ⭐️ Checkout my design portfolio **https://saeshikiji.myportfolio.com/work**
 
-- 👯 Let's chat! **https://www.linkedin.com/in/sae-shikiji-a025a4199/**
+- 👯 Message me! **saeshikiji@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
