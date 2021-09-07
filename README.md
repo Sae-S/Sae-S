@@ -1,5 +1,5 @@
 <h1>👋 Hi, I'm Sae</h1>
-<h3>I'm a bilingual full-stack web developer and graphic designer in Tokyo🗼</h3>
+<h3>I'm a bilingual front-end developer and graphic designer in Tokyo🗼</h3>
 
 - 👩‍💻 Currently learning React in Rails
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sae shikiji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sae-shikiji" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sae-shikiji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sae-shikiji" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
