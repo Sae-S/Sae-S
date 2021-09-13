@@ -5,6 +5,8 @@
 
 - ⭐️ Checkout my design portfolio **https://saeshikiji.myportfolio.com/work**
 
+- 👀 Checkout my web development portfolio **https://saeshikiji.me/**
+
 - 👯 Message me! **saeshikiji@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
