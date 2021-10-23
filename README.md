@@ -1,7 +1,7 @@
 <h1>👋 Hi, I'm Sae</h1>
 <h3>I'm a bilingual front-end developer and graphic designer in Tokyo🗼</h3>
 
-- 👩‍💻 Currently learning React in Rails
+- 👩‍💻 Currently making a service site for Beyond Cafe
 
 - ⭐️ Checkout my design portfolio **https://saeshikiji.myportfolio.com/work**
 
